@@ -2,7 +2,7 @@ package appJava;
 
 public class A {
     public int x=5;
-    int y =10;
+    int y =1000;
 
 
 
